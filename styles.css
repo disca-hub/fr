@@ -1,6 +1,8 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: "banniere.png";
+	background-image: url("banniere.png");
+	background-size: cover;
+
 }
 
 .container {
@@ -11,7 +13,7 @@ body {
 }
 
 h1 {
-    color: #333;
+    color: #F6832B;
 }
 
 .links-container {
